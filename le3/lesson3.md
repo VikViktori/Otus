@@ -27,7 +27,7 @@ __Проверка:__
 
 В качестве проверки:
 - [Vagrantfile](./le3/Vagrantfile)
-- [Скритп настойки RAID](./le3/raid10.sh)
+- [Скрипт настойки RAID](./le3/raid10.sh)
 - [mdadm.conf](./le3/mdadm.conf)
 
 
